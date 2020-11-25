@@ -1,5 +1,4 @@
 import requests 
-import argparse 
 
 
 def get_mac_fornecedor(endereco_mac): 
