@@ -1,0 +1,5 @@
+IP:ip
+Mac:mac
+Fabricante:fab
+Data de descoberta:data
+
