@@ -1,5 +1,5 @@
 from getmac import get_mac_address
 
-ip_mac = get_mac_address(ip="192.168.100.8")
+ip_mac = get_mac_address(ip="ip")
 
 print(ip_mac)
